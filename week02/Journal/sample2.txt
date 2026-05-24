@@ -1,0 +1,21 @@
+JOURNAL EXPORT - 2026-05-24 13:07:23
+Total Entries: 3
+============================================================
+=== 2024-11-20 09:00:00 ===
+Title: My First Entry
+Prompt: Who was the most interesting person I interacted with today?
+[26 words]
+I talked with my coworker John about his recent trip to Japan. His stories about the culture and food were fascinating. It made me want to travel more.
+--------------------------------------------------
+=== 2024-11-20 21:30:00 ===
+Title: Evening Thoughts
+Prompt: What was the best part of my day?
+[25 words]
+Coming home to my family after a long day. We had dinner together and watched a movie. Simple moments like these mean the most.
+--------------------------------------------------
+=== 2024-11-21 07:30:00 ===
+Title: Morning Gratitude
+Prompt: What is one thing I'm grateful for today?
+[33 words]
+I'm grateful for having a warm cup of coffee on a cold morning. It's a small pleasure that starts my day off right and gives me a moment of peace before the rush begins.
+--------------------------------------------------
