@@ -1,0 +1,2 @@
+2026-06-12 16:29:33|BreathingActivity|30
+2026-06-12 16:31:01|ReflectionActivity|30
